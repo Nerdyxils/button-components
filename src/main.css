@@ -1,0 +1,19 @@
+.container {
+    padding: 20px 0;
+}
+
+.b_flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.b_item {
+    margin: 20px;
+}
+
+small {
+    font-size: 12px;
+    color: #333333;
+    line-height: 30px;
+    display: block;
+}
