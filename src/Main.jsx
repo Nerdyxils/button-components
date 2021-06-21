@@ -119,7 +119,7 @@ function Main() {
 
 
         <div className="cc">
-           <small>created by Nerdyxils - devChallenges.io</small>
+           <small className="cc">created by Nerdyxils - devChallenges.io</small>
         </div>
 
         </div>

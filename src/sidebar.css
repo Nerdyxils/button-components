@@ -26,3 +26,9 @@ li {
 .t_red {
     color: red;
 }
+
+@media (max-width: 600px) {
+    .sidebar {
+        width: 100%;
+    }
+}

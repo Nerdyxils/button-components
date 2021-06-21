@@ -17,3 +17,22 @@ small {
     line-height: 30px;
     display: block;
 }
+
+.cc {
+    font-weight: 900;
+    margin-top: 100px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media (max-width: 600px) {
+    .b_flex {
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+    }
+    h1 {
+        text-align: center;
+    }
+}

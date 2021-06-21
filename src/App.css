@@ -1,3 +1,9 @@
 .main_app {
   display: flex;
 }
+
+@media (max-width: 600px) {
+  .main_app {
+    display: block;
+  }
+}
