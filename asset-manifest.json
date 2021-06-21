@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/button-components/static/css/main.c55a7585.chunk.css",
+    "main.js": "/button-components/static/js/main.357bc4c0.chunk.js",
+    "main.js.map": "/button-components/static/js/main.357bc4c0.chunk.js.map",
+    "runtime-main.js": "/button-components/static/js/runtime-main.658f97d9.js",
+    "runtime-main.js.map": "/button-components/static/js/runtime-main.658f97d9.js.map",
+    "static/js/2.19b811e8.chunk.js": "/button-components/static/js/2.19b811e8.chunk.js",
+    "static/js/2.19b811e8.chunk.js.map": "/button-components/static/js/2.19b811e8.chunk.js.map",
+    "index.html": "/button-components/index.html",
+    "static/css/main.c55a7585.chunk.css.map": "/button-components/static/css/main.c55a7585.chunk.css.map",
+    "static/js/2.19b811e8.chunk.js.LICENSE.txt": "/button-components/static/js/2.19b811e8.chunk.js.LICENSE.txt",
+    "static/media/shopping-cart.44f5d8a8.svg": "/button-components/static/media/shopping-cart.44f5d8a8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.658f97d9.js",
+    "static/js/2.19b811e8.chunk.js",
+    "static/css/main.c55a7585.chunk.css",
+    "static/js/main.357bc4c0.chunk.js"
+  ]
+}
